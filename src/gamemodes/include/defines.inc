@@ -1,0 +1,56 @@
+//#define DEBUG_MODE
+
+#define PROJECT_NAME			"Azure RP"
+#define SERVER_NAME				PROJECT_NAME" | Client: 0.3.7"
+#define SERVER_GAMEMODE_NAME	PROJECT_NAME
+#define SERVER_WEBSITE			"azure-rp.ru"
+#define SERVER_MAPNAME			"State of Azure"
+#define SERVER_LANGUAGE			"Русский"
+#define SERVER_RCON_PASSWORD	"qwerty"
+
+#define MYSQL_HOST				"localhost"
+#define MYSQL_USER				"root"
+#define MYSQL_PASSWORD			""
+#define MYSQL_DATABASE			"azure"
+
+#undef MAX_PLAYERS
+#define MAX_PLAYERS				100
+
+#undef MAX_VEHICLES
+#define MAX_VEHICLES			1000
+
+#define MAX_HOUSES				1000
+#define MAX_BUSINESSES			100
+
+#define FRACTION_GOVERNMENT		1
+#define	FRACTION_MAYOR			2
+#define	FRACTION_LSPD			3
+#define	FRACTION_SFPD			4
+#define	FRACTION_LVPD			5
+#define FRACTION_FBI			6
+#define FRACTION_TELEVISION		7
+#define	FRACTION_GROVE			8
+#define	FRACTION_BALLAS			9
+#define	FRACTION_AZTEC			10
+#define	FRACTION_VAGOS			11
+#define	FRACTION_LACOSANOSTRA	12
+#define	FRACTION_YAKUZA			13
+#define	FRACTION_RUSSIANMAFIA	14
+
+#define COLOR_ACCENT			0xFFCC33FF
+#define COLOR_ACCENT_EMBED		"FFCC33"
+#define COLOR_ERROR				0xCCCCCCFF // fix
+#define COLOR_WARNING			0xFFFFFFFF // fix
+#define COLOR_USAGE				0xFFDDDDFF
+#define COLOR_THOUGHTS			0xCCCCCCFF
+#define COLOR_SMS				0xFFDDDDFF // fix
+#define COLOR_ADMIN				0xFFA82EFF
+#define COLOR_ADMIN_EMBED		"FFA82E"
+#define COLOR_MAYOR				0x4071DBFF
+#define COLOR_RADIO				0x4071DBFF // fix
+#define COLOR_RADIO_EMBED		"4071DB"
+#define COLOR_POLICE			0x0011FFFF
+#define COLOR_POLICE_EMBED		"0011FF"
+#define COLOR_FAIL				0xFFAAAAFF
+#define COLOR_SUCCESS			0x00D42EFF
+#define COLOR_SUCCESS_EMBED		"00D42E"
