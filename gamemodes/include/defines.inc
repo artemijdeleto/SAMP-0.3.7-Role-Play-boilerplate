@@ -1,17 +1,17 @@
 //#define DEBUG_MODE
 
-#define PROJECT_NAME			"Azure RP"
+#define PROJECT_NAME			"New RP"
 #define SERVER_NAME				PROJECT_NAME" | Client: 0.3.7"
 #define SERVER_GAMEMODE_NAME	PROJECT_NAME
-#define SERVER_WEBSITE			"azure-rp.ru"
-#define SERVER_MAPNAME			"State of Azure"
+#define SERVER_WEBSITE			"new-rp.ru"
+#define SERVER_MAPNAME			"State of New"
 #define SERVER_LANGUAGE			"Русский"
 #define SERVER_RCON_PASSWORD	"qwerty"
 
 #define MYSQL_HOST				"localhost"
 #define MYSQL_USER				"root"
 #define MYSQL_PASSWORD			""
-#define MYSQL_DATABASE			"azure"
+#define MYSQL_DATABASE			"new"
 
 #undef MAX_PLAYERS
 #define MAX_PLAYERS				100
